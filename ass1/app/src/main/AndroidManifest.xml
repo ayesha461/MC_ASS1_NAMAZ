@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.ass1namaz">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".salaam"></activity>
+        <activity android:name=".duasAfterDurood" />
+        <activity android:name=".durood" />
+        <activity android:name=".tashud" />
+        <activity android:name=".sajda" />
+        <activity android:name=".qooma" />
+        <activity android:name=".Ruku" />
+        <activity android:name=".SurahIkhlas" />
+        <activity android:name=".surahAlFatiha" />
+        <activity android:name=".sana" />
+        <activity android:name=".niyet" />
+        <activity android:name=".dashboard" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

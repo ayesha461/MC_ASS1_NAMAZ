@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context=".dashboard">
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#550707"
+        android:scrollbars="horizontal">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+
+            android:id="@+id/top"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:background="@drawable/dashbordbackground"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <ImageView
+                android:id="@+id/toplogo"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_marginTop="24dp"
+                android:src="@drawable/salah"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.498"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Learn Namaz"
+                android:textColor="#fff"
+                android:textSize="30dp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="@id/toplogo"
+                app:layout_constraintStart_toStartOf="@id/toplogo"
+                app:layout_constraintTop_toBottomOf="@id/toplogo"/>
+
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:text="Dua for niyat"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/gradient_button"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/top"
+            android:onClick="niyet"/>
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:text="Sana"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/gradient_button"
+            app:layout_constraintEnd_toEndOf="@id/button"
+            app:layout_constraintStart_toStartOf="@id/button"
+            app:layout_constraintTop_toBottomOf="@id/button"
+            android:onClick="sana"/>
+
+        <Button
+            android:id="@+id/button3"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:text="Surah Al-Fatiha"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/gradient_button"
+            app:layout_constraintEnd_toEndOf="@id/button2"
+            app:layout_constraintStart_toStartOf="@id/button2"
+            app:layout_constraintTop_toBottomOf="@id/button2"
+            android:onClick="surahAlFatiha"/>
+
+        <Button
+            android:id="@+id/button4"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:text="Surah Ikhlas"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/gradient_button"
+            app:layout_constraintEnd_toEndOf="@id/button3"
+            app:layout_constraintStart_toStartOf="@id/button3"
+            app:layout_constraintTop_toBottomOf="@id/button3"
+            android:onClick="surahIkhlas"/>
+
+        <Button
+            android:id="@+id/button5"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:text="Ruku"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/gradient_button"
+            app:layout_constraintEnd_toEndOf="@id/button4"
+            app:layout_constraintStart_toStartOf="@id/button4"
+            app:layout_constraintTop_toBottomOf="@id/button4"
+            android:onClick="ruku"/>
+
+        <Button
+            android:id="@+id/button6"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:text="Qooma"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/gradient_button"
+            app:layout_constraintEnd_toEndOf="@id/button5"
+            app:layout_constraintStart_toStartOf="@id/button5"
+            app:layout_constraintTop_toBottomOf="@id/button5"
+            android:onClick="qooma"
+             />
+
+        <Button
+            android:id="@+id/button7"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:text="Sajda"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/gradient_button"
+            app:layout_constraintEnd_toEndOf="@id/button6"
+            app:layout_constraintStart_toStartOf="@id/button6"
+            app:layout_constraintTop_toBottomOf="@id/button6"
+            android:onClick="sajda"/>
+
+        <Button
+            android:id="@+id/button8"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:text="Tashud"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/gradient_button"
+            app:layout_constraintEnd_toEndOf="@id/button7"
+            app:layout_constraintStart_toStartOf="@id/button7"
+            app:layout_constraintTop_toBottomOf="@id/button7"
+            android:onClick="tashud"/>
+
+        <Button
+            android:id="@+id/button9"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:text="Durood"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/gradient_button"
+            app:layout_constraintEnd_toEndOf="@id/button8"
+            app:layout_constraintStart_toStartOf="@id/button8"
+            app:layout_constraintTop_toBottomOf="@id/button8"
+            android:onClick="durood"/>
+
+        <Button
+            android:id="@+id/button10"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:text="Duas after Durood"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/gradient_button"
+            app:layout_constraintEnd_toEndOf="@id/button9"
+            app:layout_constraintStart_toStartOf="@id/button9"
+            app:layout_constraintTop_toBottomOf="@id/button9"
+            android:onClick="duaAfterDurood"/>
+        <Button
+            android:id="@+id/button11"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:text="Salaam"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/gradient_button"
+            app:layout_constraintEnd_toEndOf="@id/button10"
+            app:layout_constraintStart_toStartOf="@id/button10"
+            app:layout_constraintTop_toBottomOf="@id/button10"
+            android:onClick="salaam"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>
