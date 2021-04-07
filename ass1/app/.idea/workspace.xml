@@ -6,7 +6,34 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ee8cca1-bfa6-4eb9-b33a-cd04cf939400" name="Default Changelist" comment="" />
+    <list default="true" id="4ee8cca1-bfa6-4eb9-b33a-cd04cf939400" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/GitFolder2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ass1namaz/Ruku.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ass1namaz/Ruku.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ass1namaz/SurahIkhlas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ass1namaz/SurahIkhlas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ass1namaz/duasAfterDurood.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ass1namaz/duasAfterDurood.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ass1namaz/durood.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ass1namaz/durood.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ass1namaz/niyet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ass1namaz/niyet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ass1namaz/qooma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ass1namaz/qooma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ass1namaz/sajda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ass1namaz/sajda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ass1namaz/salaam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ass1namaz/salaam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ass1namaz/sana.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ass1namaz/sana.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ass1namaz/surahAlFatiha.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ass1namaz/surahAlFatiha.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ass1namaz/tashud.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ass1namaz/tashud.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_duas_after_durood.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/activity_duas_after_durood.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_durood.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/activity_durood.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_niyet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/activity_niyet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_qooma.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/activity_qooma.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_ruku.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/activity_ruku.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_sajda.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/activity_sajda.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_salaam.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/activity_salaam.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_sana.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/activity_sana.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_surah_al_fatiha.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/activity_surah_al_fatiha.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_surah_ikhlas.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/activity_surah_ikhlas.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_tashud.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/activity_tashud.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,7 +57,11 @@
       </state>
     </system>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1qnpqd4VyN2dulNEkRFInK4n635" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -40,9 +71,10 @@
     <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="DUJ6R20228014220" />
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-04-07T05:41:42.486Z" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/res/drawable" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/res/raw" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="android.template.1058217233">
@@ -146,22 +178,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1617733201489" />
-    <state width="1306" height="173" key="GridCell.Tab.0.bottom" timestamp="1617774628722">
+    <state width="1306" height="173" key="GridCell.Tab.0.bottom" timestamp="1617778693862">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="173" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1617774628722" />
-    <state width="1306" height="173" key="GridCell.Tab.0.center" timestamp="1617774628722">
+    <state width="1306" height="173" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1617778693862" />
+    <state width="1306" height="173" key="GridCell.Tab.0.center" timestamp="1617778693862">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="173" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1617774628722" />
-    <state width="1306" height="173" key="GridCell.Tab.0.left" timestamp="1617774628722">
+    <state width="1306" height="173" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1617778693862" />
+    <state width="1306" height="173" key="GridCell.Tab.0.left" timestamp="1617778693862">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="173" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1617774628722" />
-    <state width="1306" height="173" key="GridCell.Tab.0.right" timestamp="1617774628722">
+    <state width="1306" height="173" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1617778693862" />
+    <state width="1306" height="173" key="GridCell.Tab.0.right" timestamp="1617778693862">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="173" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1617774628722" />
+    <state width="1306" height="173" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1617778693862" />
     <state x="499" y="142" key="chooseDestDirectoryDialog" timestamp="1617741763294">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

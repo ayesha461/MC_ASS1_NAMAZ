@@ -28,8 +28,21 @@
         app:layout_constraintBottom_toBottomOf="@id/Play"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
-        app:layout_constraintStart_toEndOf="@+id/Play"
-        app:layout_constraintTop_toTopOf="@id/Play" />
+        android:layout_marginTop="20dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView1" />
+    <Button
+        android:id="@+id/Home"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="home"
+        android:text="home"
+        app:layout_constraintBottom_toBottomOf="@id/Pause"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/Pause"
+        app:layout_constraintTop_toTopOf="@id/Pause" />
+
 
     <ImageView
         android:id="@+id/imageView"
